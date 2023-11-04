@@ -22,4 +22,4 @@ This Image Gallery is a simple yet elegant project created as a job task for Oll
 
 ## Live Link
 
-
+Hosted in Vercel -> [Image Gallery](https://ollyo-task-olive.vercel.app/)
